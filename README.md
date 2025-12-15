@@ -1,4 +1,4 @@
-# veo3automationtool
+# Veo3 AI Automation Tool - Batch Videos Generator
 Veo3 AI Video Automation Tool Project
 Scale your video production on Google Veo3 with automated bulk prompts and AI script writing. Save time and effortlessy create videos 24/7—even while you sleep.
 
